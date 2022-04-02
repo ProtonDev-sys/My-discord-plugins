@@ -4,8 +4,8 @@
  * @authorId 710514340855545878
  * @version 1.0.0
  * @description Allows you to click the channel in the message box
- * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/RemoveBlockedUsers/
- * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Plugins/RemoveBlockedUsers/RemoveBlockedUsers.plugin.js
+ * @source https://github.com/ProtonDev-sys/My-discord-plugins/tree/main/EasyChannelAccess
+ * @updateUrl https://raw.githubusercontent.com/ProtonDev-sys/My-discord-plugins/main/EasyChannelAccess/EasyChannelAccess.plugin.js
  */
 
 module.exports = (_ => {
